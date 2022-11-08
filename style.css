@@ -8,7 +8,8 @@
 }
 
 body{
-    
+    margin: 0vh;
+    padding: 0vh;
     height: 200vh;
     position: relative;
     background-image: url('./image/Websitebase.png');
